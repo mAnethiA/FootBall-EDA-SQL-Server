@@ -1,0 +1,58 @@
+Based on the data, Here are some examples:
+
+#Basic Information:
+
+What is the birthdate of player "Theo Neto"?
+: 
+Who is the goalkeeper with shirt number 12?
+:
+How many defenders are there in the team?
+:
+
+#Filtering and Sorting:
+
+List all midfielders in the team.
+:
+Display players born after 2000.
+:
+Sort the players by shirt number.
+:
+
+#Statistical Queries:
+
+What is the average age of the players?
+:
+Find the youngest and oldest players.
+:
+Calculate the total number of players.
+:
+
+#Updates and Modifications:
+
+Change the position of player "Dango Ouattara" to "Midfielder."
+:
+Update the birthdate of player "Max Aarons" to 1999-01-04.
+:
+
+#Aggregation:
+
+Count the number of players for each position.
+:
+Find the player with the highest shirt number.
+:
+Determine the number of players born in each month.
+:
+
+#Combining Information:
+
+List the names and positions of players born after 1995.
+:
+Show the shirt number, name, and position of goalkeepers.
+:
+
+#Conditional Queries:
+
+Display players whose last name starts with 'M.'
+:
+Find players with a shirt number less than 10 and born after 1990.
+:
